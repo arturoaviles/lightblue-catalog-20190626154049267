@@ -9,6 +9,6 @@ spring:
     driverClassName: com.mysql.jdbc.Driver
     url: jdbc:mysql://cap-sg-prd-4.securegateway.appdomain.cloud:19617/inventorydb
     username: dbuser
-    password: Pass4dbUs3R
+    password: Pass4dbUs3r
   jpa:
     database: MYSQL
